@@ -7,3 +7,6 @@ content:
 - Naming variables
 - Increment and Decrement
 - While Loops
+- setTimeout and setInterval
+- Anonymous Function
+- Arrow Functions
