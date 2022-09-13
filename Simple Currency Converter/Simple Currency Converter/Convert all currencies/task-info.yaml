@@ -145,5 +145,25 @@ files:
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/17899#comment
 check_profile: hyperskill_node_javascript
-status: Unchecked
+status: Failed
+feedback:
+  message: |-
+    Wrong answer in test #1
+
+    Your output should be like in the example!
+
+    Please find below the output of your program during this failed test.
+
+    ---
+
+    Welcome to Currency Converter!
+    1 USD equals 1 USD
+    1 USD equals 113.5 JPY
+    1 USD equals 0.89 EUR
+    1 USD equals 74.36 RUB
+    1 USD equals 0.75 GBP
+    I can convert USD to these currencies: JPY, EUR, RUB, USD, GBP
+    What do you want to convert?
+    From:
+  time: Tue, 13 Sep 2022 12:40:36 UTC
 record: -1
