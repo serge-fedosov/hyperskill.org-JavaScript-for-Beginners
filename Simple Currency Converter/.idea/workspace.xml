@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9dba1624-e0b1-4ba7-a7a2-8a2ed9d257a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/Array Creation/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/Array Creation/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/Array Creation/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/Array Creation/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/Correct output/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/Correct output/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/Correct output/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/Correct output/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/Literal notation/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/Literal notation/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/Literal notation/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/Literal notation/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/The from() method/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/The from() method/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/The from() method/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/The from() method/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/The new keyword/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/The new keyword/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/The new keyword/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/The new keyword/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/The of() method/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/The of() method/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/The of() method/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/The of() method/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/Theory/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/What's the output/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/What's the output/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/What's the output/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/What's the output/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array creation/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/Calculations/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/Calculations/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/Calculations/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/Calculations/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/Comprehension/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/Comprehension/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/Comprehension/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/Comprehension/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/Fruit/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/Fruit/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/Fruit/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/Fruit/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/The correct statements/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/The correct statements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/The correct statements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/The correct statements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/The decrement/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/The decrement/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/The decrement/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/The decrement/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/The reverse order/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/The reverse order/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/The reverse order/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/The reverse order/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/The sum of numbers/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/The sum of numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/The sum of numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/The sum of numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/Theory/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For Loops/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Secret argument/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Secret argument/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Secret argument/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Secret argument/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Solar system/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Solar system/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Solar system/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Solar system/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Theory/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Your favorite music/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Your favorite music/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Your favorite music/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Your favorite music/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Arrow functions/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Arrow functions/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Arrow functions/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Arrow functions/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Counter/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Counter/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Counter/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Counter/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Functions as object properties/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Functions as object properties/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Functions as object properties/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Functions as object properties/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Inside a box/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Inside a box/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Inside a box/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Inside a box/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Learn from others' errors/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Learn from others' errors/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Learn from others' errors/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Learn from others' errors/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Nested objects/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Nested objects/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Nested objects/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Nested objects/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Syntax/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Syntax/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Syntax/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Syntax/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Theory/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Object methods and keyword  this/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Currency Converter/Convert a currency/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Currency Converter/Convert a currency/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Currency Converter/Convert all currencies/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Currency Converter/Convert all currencies/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Currency Converter/Loop it/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Currency Converter/Loop it/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Currency Converter/Welcome to Simple Currency Converter/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Currency Converter/Welcome to Simple Currency Converter/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Currency Converter/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Currency Converter/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Currency Converter/task/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Currency Converter/task/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Currency Converter/task/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Currency Converter/task/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Eg4ZI4Y6MzWsAJRKWArsdKL7zo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;17.3.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;17.0.45&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;C:/Program Files/nodejs/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dba1624-e0b1-4ba7-a7a2-8a2ed9d257a9" name="Changes" comment="" />
+      <created>1663003948306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663003948306</updated>
+      <workItem from="1663003949793" duration="2040000" />
+      <workItem from="1663058534353" duration="4226000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
