@@ -2,12 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9dba1624-e0b1-4ba7-a7a2-8a2ed9d257a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/Even or odd/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/Even or odd/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/Even or odd/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/Even or odd/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/Operator/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/Operator/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/Operator/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/Operator/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/The first occurence/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/The first occurence/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/The first occurence/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/The first occurence/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/The sum of numbers/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/The sum of numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/The sum of numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/The sum of numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/Theory/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Break and Continue/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Currency Converter/Convert a currency/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Currency Converter/Convert a currency/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Simple Currency Converter/Convert all currencies/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Currency Converter/Convert all currencies/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Simple Currency Converter/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Currency Converter/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Simple Currency Converter/task/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Currency Converter/task/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Simple Currency Converter/task/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Currency Converter/task/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663003948306</updated>
       <workItem from="1663003949793" duration="2040000" />
-      <workItem from="1663058534353" duration="5838000" />
+      <workItem from="1663058534353" duration="7341000" />
     </task>
     <servers />
   </component>
