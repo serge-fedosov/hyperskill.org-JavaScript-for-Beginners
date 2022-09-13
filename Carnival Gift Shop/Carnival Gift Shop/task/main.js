@@ -5,6 +5,13 @@ function greetingMessage() {
 
 function showGifts() {
     console.log("Here's the list of gifts:\n");
+
+    if (gifts.length === 0) {
+        console.log();
+        console.log("Wow! There are no gifts to buy.");
+        return;
+    }
+
     for (const i in gifts) {
         console.log(`${gifts[i].id}- ${gifts[i].name}, Cost: ${gifts[i].cost} tickets`);
     }
@@ -15,20 +22,50 @@ function exitMessage() {
 }
 
 function buyAGift() {
+    if (gifts.length === 0) {
+        console.log("Wow! There are no gifts to buy.");
+        return;
+    }
+
     let number = Number(input("Enter the number of the gift you want to get: "));
+    if (isNaN(number)) {
+        console.log("Please enter a valid number!");
+        return;
+    }
+
+    let found = false;
     for (const i in gifts) {
         if (gifts[i].id === number) {
-            tickets -= gifts[i].cost;
-            console.log(`Here you go, one ${gifts[i].name}!`);
-            delete gifts[i];
+            found = true;
+
+            if (tickets < gifts[i].cost) {
+                console.log("You don't have enough tickets to buy this gift.");
+            } else {
+                tickets -= gifts[i].cost;
+                console.log(`Here you go, one ${gifts[i].name}!`);
+                gifts.splice(i, 1);
+            }
+
             break;
         }
     }
+
+    if (!found) {
+        console.log("There is no gift with that number!");
+        return;
+    }
+
     checkTickets();
 }
 
 function addTickets() {
     let amount = Number(input("Enter the ticket amount: "));
+
+    if (isNaN(amount) || amount < 0 || amount > 1000) {
+        console.log("Please enter a valid number between 0 and 1000.");
+        return;
+    }
+
     tickets += amount;
     checkTickets();
 }
@@ -57,8 +94,11 @@ function menu() {
             case 4:
                 showGifts();
                 break;
-            default:
+            case 5:
                 return;
+            default:
+                console.log("Please enter a valid number!");
+                break;
         }
     }
 }
