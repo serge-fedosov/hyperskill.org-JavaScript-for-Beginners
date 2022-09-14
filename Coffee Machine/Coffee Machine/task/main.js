@@ -6,7 +6,7 @@ let hasCoffee = 120;
 let hasCups = 9;
 let hasMoney = 550;
 
-function printHas() {
+function remaining() {
     console.log(`The coffee machine has:
 ${hasWater} ml of water
 ${hasMilk} ml of milk
@@ -15,29 +15,52 @@ ${hasCups} disposable cups
 $${hasMoney} of money`);
 }
 
+function makeCoffee(needWater, needMilk, needCoffee, needCups, addMoney) {
+    let error = false;
+
+    if (hasWater - needWater < 0) {
+        error = true;
+        console.log("Sorry, not enough water!");
+    }
+
+    if (hasMilk - needMilk < 0) {
+        error = true;
+        console.log("Sorry, not enough milk!");
+    }
+
+    if (hasCoffee - needCoffee < 0) {
+        error = true;
+        console.log("Sorry, not enough coffee beans!");
+    }
+
+    if (hasCups - needCups < 0) {
+        error = true;
+        console.log("Sorry, not enough cups!");
+    }
+
+    if (!error) {
+        hasWater -= needWater;
+        hasMilk -= needMilk;
+        hasCoffee -= needCoffee;
+        hasCups -= needCups;
+        hasMoney += addMoney
+
+        console.log("I have enough resources, making you a coffee!");
+    }
+}
+
 function buy() {
     console.log("What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino: ")
     let coffeeType = Number(input());
     switch (coffeeType) {
         case 1:
-            hasWater -= 250;
-            hasCoffee -= 16;
-            hasMoney += 4;
-            hasCups -= 1;
+            makeCoffee(250, 0, 16, 1, 4);
             break;
         case 2:
-            hasWater -= 350;
-            hasMilk -= 75;
-            hasCoffee -= 20;
-            hasMoney += 7;
-            hasCups -= 1;
+            makeCoffee(350, 75, 20, 1, 7);
             break;
         case 3:
-            hasWater -= 200;
-            hasMilk -= 100;
-            hasCoffee -= 12;
-            hasMoney += 6;
-            hasCups -= 1;
+            makeCoffee(200, 100, 12, 1, 6);
             break;
         default:
             break;
@@ -64,25 +87,31 @@ function take() {
 }
 
 function menu() {
-    console.log("Write action (buy, fill, take): ");
-    let action = input();
-    switch (action) {
-        case "buy":
-            buy();
-            break;
-        case "fill":
-            fill();
-            break;
-        case "take":
-            take();
-            break;
-        default:
-            break;
-    }
+    while (true) {
+        console.log("Write action (buy, fill, take, remaining, exit):");
+        let action = input();
+        console.log()
+        switch (action) {
+            case "buy":
+                buy();
+                break;
+            case "fill":
+                fill();
+                break;
+            case "take":
+                take();
+                break;
+            case "remaining":
+                remaining();
+                break;
+            case "exit":
+                return;
+            default:
+                break;
+        }
 
-    console.log()
+        console.log()
+    }
 }
 
-printHas();
 menu();
-printHas();
