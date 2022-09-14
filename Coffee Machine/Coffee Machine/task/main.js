@@ -50,7 +50,7 @@ function makeCoffee(needWater, needMilk, needCoffee, needCups, addMoney) {
 }
 
 function buy() {
-    console.log("What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino: ")
+    console.log("What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, 4 - cup of water: ")
     let coffeeType = Number(input());
     switch (coffeeType) {
         case 1:
@@ -61,6 +61,9 @@ function buy() {
             break;
         case 3:
             makeCoffee(200, 100, 12, 1, 6);
+            break;
+        case 4:
+            makeCoffee(250, 0, 0, 1, 1);
             break;
         default:
             break;
