@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c37ff5c-cc23-44f6-9fc8-9c25eb46df08" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffee Machine/Buy, fill, take/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/Buy, fill, take/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffee Machine/Coffee for all/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/Coffee for all/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffee Machine/Ingredient calculator/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/Ingredient calculator/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffee Machine/Keeping track of the supplies/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/Keeping track of the supplies/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffee Machine/Making coffee/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/Making coffee/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffee Machine/The sandbox/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/The sandbox/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffee Machine/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffee Machine/task/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/task/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EizWSSbzMV4oHcjrhnGabB9bSf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;17.3.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;17.0.45&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;C:/Program Files/nodejs/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c37ff5c-cc23-44f6-9fc8-9c25eb46df08" name="Changes" comment="" />
+      <created>1663093223951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663093223951</updated>
+      <workItem from="1663093226012" duration="175000" />
+      <workItem from="1663136099025" duration="597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
