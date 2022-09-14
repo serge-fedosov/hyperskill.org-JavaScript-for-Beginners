@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c37ff5c-cc23-44f6-9fc8-9c25eb46df08" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coffee Machine/Buy, fill, take/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/Buy, fill, take/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coffee Machine/Coffee for all/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/Coffee for all/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coffee Machine/Ingredient calculator/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/Ingredient calculator/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coffee Machine/Keeping track of the supplies/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/Keeping track of the supplies/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coffee Machine/Making coffee/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/Making coffee/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coffee Machine/The sandbox/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/The sandbox/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coffee Machine/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffee Machine/task/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/task/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coffee Machine/task/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/task/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663093223951</updated>
       <workItem from="1663093226012" duration="175000" />
-      <workItem from="1663136099025" duration="597000" />
+      <workItem from="1663136099025" duration="1797000" />
     </task>
     <servers />
   </component>
